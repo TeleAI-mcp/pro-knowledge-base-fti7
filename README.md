@@ -1,2 +1,3 @@
-# pro-knowledge-base-fti7
-A knowledge management system for modern development workflows
+# Pro Knowledge Base Fti7
+
+A knowledge management system for modern development workflows.
